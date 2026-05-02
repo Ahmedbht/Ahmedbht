@@ -48,6 +48,7 @@
 | Weather App | International weather app with API | Next.js, API | Done |
 | Nettocar | Car wash management software | Visual Basic | Done |
 | Opticloud | Optical store management software | PHP | Done |
+| [GitHub Stats Dashboard](github-stats-xi-dun-58.vercel.app) | Search any GitHub user and see their stats, repos and languages | Next.js, GitHub API | Live |
 ---
 
 ### GitHub Stats
