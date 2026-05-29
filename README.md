@@ -7,7 +7,7 @@
 --
 ### About Me
 - Student in web development
-- Building projects with **Next.js** , **Tailwind CSS** , **Django**, **PHP**
+- Building projects with **Next.js**, **React** , **Tailwind CSS** , **Django**, **PHP**
 - Based in **Morocco**
 - Always learning something new
 ---
