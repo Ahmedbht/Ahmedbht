@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ahmed</h1>
 
 <p align="center">
- Web developer passionate about building modern web applications — from frontend interfaces to backend systems.
+ Web developer passionate about building modern web applications, from frontend interfaces to backend systems.
 </p>
 
 --
