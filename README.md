@@ -10,7 +10,7 @@
 
 ### About Me
 
-I'm a full-stack and mobile developer with a background in Life Sciences before pivoting into software engineering. I build and ship products end-to-end — web applications, mobile apps, and the backends that power them.
+I'm a full-stack and mobile developer with a background in Life Sciences before pivoting into software engineering. I build and ship products end-to-end web applications, mobile apps, and the backends that power them.
 
 With a foundation from SUPISI and the 1337 coding school, I've built real-world projects across booking platforms, business management systems, and AI-assisted mobile apps — for both academic requirements and freelance clients. I'm currently expanding into mobile release engineering, handling iOS build pipelines and App Store distribution.
 
@@ -20,7 +20,7 @@ I'm driven by solving real problems for real users, and I enjoy picking up new s
 
 ### Languages & Tools
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,js,ts,tailwind,html,css,python,fastapi,django,php,csharp,java,c,mysql,git,github,vscode,figma,vercel" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,js,ts,tailwind,html,css,python,fastapi,django,php,java,c,mysql,git,github,vscode,vercel" />
 
 ---
 
