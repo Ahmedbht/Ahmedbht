@@ -8,40 +8,22 @@
 
 ---
 
-I build and ship products end-to-end — web applications, mobile apps, and the backends behind them. Currently working across Flutter, React/Next.js, and FastAPI, with a growing focus on mobile release engineering (iOS build pipelines and App Store distribution).
+### About Me
+
+I'm a full-stack and mobile developer with a background in Life Sciences before pivoting into software engineering. I build and ship products end-to-end — web applications, mobile apps, and the backends that power them.
+
+With a foundation from SUPISI and the 1337 coding school, I've built real-world projects across booking platforms, business management systems, and AI-assisted mobile apps — for both academic requirements and freelance clients. I'm currently expanding into mobile release engineering, handling iOS build pipelines and App Store distribution.
+
+I'm driven by solving real problems for real users, and I enjoy picking up new stacks quickly when a project calls for it.
 
 ---
 
-### Stack
+### Languages & Tools
 
-**Mobile**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Backend**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-**Database**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,js,ts,tailwind,html,css,python,fastapi,django,php,csharp,java,c,mysql,git,github,vscode,figma,vercel" />
 
 ---
 
-### Languages
+### Languages I Speak
 
-![Arabic](https://img.shields.io/badge/Arabic-Native-black?style=flat-square)
-![French](https://img.shields.io/badge/French-Fluent-blue?style=flat-square)
-![English](https://img.shields.io/badge/English-Fluent-red?style=flat-square)
-![Spanish](https://img.shields.io/badge/Spanish-Basic-yellow?style=flat-square)
+Arabic — Native &nbsp;·&nbsp; French — Fluent &nbsp;·&nbsp; English — Fluent &nbsp;·&nbsp; Spanish — Basic
