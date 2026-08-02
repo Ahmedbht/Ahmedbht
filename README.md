@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-bouhtit-48a880166/">LinkedIn</a> ·
-  <a href="mailto:ahmedbouhtit@gmail.com">ahmedbouhtit@gmail.com</a>
+  <a href="mailto:ahmedbouhtit8@gmail.com">ahmedbouhtit8@gmail.com</a>
 </p>
 
 ---
